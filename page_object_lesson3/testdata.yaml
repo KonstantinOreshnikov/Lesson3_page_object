@@ -1,0 +1,12 @@
+address: http://test-stand.gb.ru
+sleep_time: 1
+browser: chrome
+implicitly_wait: 5
+email: Marcus_D
+password: 8bc3c61f89
+title: Some text to title
+description: something description
+content: some content la-la-la
+contact_name: The best name
+contact_email: abcdef@gmail.com
+contact_content: hello_body

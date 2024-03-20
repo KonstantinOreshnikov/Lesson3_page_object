@@ -1,0 +1,33 @@
+16:22:01 INFO + ====== WebDriver manager ======
+16:22:02 INFO + Get LATEST chromedriver version for google-chrome
+16:22:03 INFO + Get LATEST chromedriver version for google-chrome
+16:22:03 INFO + Driver [C:\Users\Konstantin\.wdm\drivers\chromedriver\win64\122.0.6261.128\chromedriver-win32/chromedriver.exe] found in cache
+16:22:04 INFO + Test1 Starting
+16:22:15 INFO + Send test to element //*[@id="login"]/div[1]/label/input
+16:22:15 INFO + Send test to element //*[@id="login"]/div[2]/label/input
+16:22:16 INFO + Click login button
+16:22:17 INFO + We found text 401 in error field //*[@id="app"]/main/div/div/div[2]/h2
+16:22:23 INFO + ====== WebDriver manager ======
+16:22:24 INFO + Get LATEST chromedriver version for google-chrome
+16:22:26 INFO + Get LATEST chromedriver version for google-chrome
+16:22:27 INFO + Driver [C:\Users\Konstantin\.wdm\drivers\chromedriver\win64\122.0.6261.128\chromedriver-win32/chromedriver.exe] found in cache
+16:22:28 INFO + Test2 Starting
+16:22:29 INFO + Send Marcus_D to element //*[@id="login"]/div[1]/label/input
+16:22:29 INFO + Send 8bc3c61f89 to element //*[@id="login"]/div[2]/label/input
+16:22:29 INFO + Click login button
+16:22:37 INFO + ====== WebDriver manager ======
+16:22:38 INFO + Get LATEST chromedriver version for google-chrome
+16:22:39 INFO + Get LATEST chromedriver version for google-chrome
+16:22:39 INFO + Driver [C:\Users\Konstantin\.wdm\drivers\chromedriver\win64\122.0.6261.128\chromedriver-win32/chromedriver.exe] found in cache
+16:22:40 INFO + Test3 Starting
+16:22:41 INFO + Send Marcus_D to element //*[@id="login"]/div[1]/label/input
+16:22:42 INFO + Send 8bc3c61f89 to element //*[@id="login"]/div[2]/label/input
+16:22:42 INFO + Click login button
+16:22:45 INFO + We found text Some text to title on the page of the post
+16:22:51 INFO + ====== WebDriver manager ======
+16:22:53 INFO + Get LATEST chromedriver version for google-chrome
+16:22:53 INFO + Get LATEST chromedriver version for google-chrome
+16:22:54 INFO + Driver [C:\Users\Konstantin\.wdm\drivers\chromedriver\win64\122.0.6261.128\chromedriver-win32/chromedriver.exe] found in cache
+16:23:06 INFO + Send Marcus_D to element //*[@id="login"]/div[1]/label/input
+16:23:06 INFO + Send 8bc3c61f89 to element //*[@id="login"]/div[2]/label/input
+16:23:06 INFO + Click login button
